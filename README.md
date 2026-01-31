@@ -25,7 +25,7 @@ A Flutter-based mobile application designed for Work System Design (WSD) and Erg
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/jnanasreekonda/wsd_lab.git
+    git clone https://github.com/JnanasreeKonda/Work-System-Design-Lab-Experiments-App.git
     cd wsd_lab
     ```
 
